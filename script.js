@@ -70,7 +70,6 @@ async function getsurah() {
   </div>`;
 
 
-      console.log(element.name)
   });
   }
           getsurah()
