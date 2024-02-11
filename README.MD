@@ -6,7 +6,7 @@ Di projek kali ini saya sedang membuat suatu web berbasis web tentang informasi 
 
 ## Authors
 
-🧑🏻‍💻- [@RYANNNHZ](https://www.github.com/RYANNNHZ)
+🧑🏻‍💻[@RYANNNHZ](https://www.github.com/RYANNNHZ)
 
 
 ## Tech Stack
