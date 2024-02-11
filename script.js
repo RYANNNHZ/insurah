@@ -60,7 +60,7 @@ async function getsurah() {
       <p>di turunkan di:<b>${element.revelation}</b></p>
       <p>tentang:<b>${element.translation}</b></p>
         </div>
-        <div>
+        <div class="desc">
         ${element.description}
         </div>
       
