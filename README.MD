@@ -5,12 +5,10 @@ Di projek kali ini saya sedang membuat suatu web berbasis web tentang informasi 
 
 
 ## Authors
-
 🧑🏻‍💻[@RYANNNHZ](https://www.github.com/RYANNNHZ)
 
 
 ## Tech Stack
-
 **Client:** vanilla CSS, vanilla JS 
 
 **Server:** API:https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
